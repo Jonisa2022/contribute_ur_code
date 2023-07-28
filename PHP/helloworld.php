@@ -6,4 +6,7 @@
   
   echo $somethingToSay;
 
+
+  $name = "Jonisa Angoni";
+  echo "Hello, $name!";
 ?>
